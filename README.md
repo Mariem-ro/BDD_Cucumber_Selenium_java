@@ -1,4 +1,8 @@
+𝐁𝐃𝐃 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐁𝐚𝐜𝐤𝐨𝐟𝐟𝐢𝐜𝐞 𝐨𝐟 𝐄-𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐰𝐢𝐭𝐡 𝐂𝐮𝐜𝐮𝐦𝐛𝐞𝐫+𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦
+
+
 Best Practices:
+
 Grouping step definitions
 Technically it doesn’t matter how you name your step definition files, or which step definitions you put in a file. You could have one giant file containing all your step definitions. However, as the project grows, the file can become messy and hard to maintain. Instead, we recommend creating a separateStepDefinitions.java file for each domain concept.
 
