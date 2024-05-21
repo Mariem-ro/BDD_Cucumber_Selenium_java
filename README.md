@@ -28,7 +28,9 @@ Technologies needs:
 - Extent Report
 - PicoContainer
   
+  
  ==================================================================================================================================================================================
+ 
  Test scenarios Priorities:
  - test scenarios: 
   1- Login with correcte credentials = P1
@@ -40,7 +42,9 @@ Technologies needs:
   7- Add Manufactureres = P1
   8- Search Manufactureres = P2
    
+   
  ==================================================================================================================================================================================
+ 
  
 Grouping step definitions
 Technically it doesn’t matter how you name your step definition files, or which step definitions you put in a file. You could have one giant file containing all your step definitions. However, as the project grows, the file can become messy and hard to maintain. Instead, we recommend creating a separateStepDefinitions.java file for each domain concept.
@@ -59,6 +63,7 @@ If you follow this pattern, you also avoid the Feature-coupled step definitions 
 Of course, how you group your step definitions is really up to you and your team. They should be grouped in a way that is meaningful to your project.
 
 ===> so to dao that We have to use composition to resolve this problem. We could achieve this with dependency injection. I have used PicoContainer to achieve dependency injection.
+
 ![PATH](https://github.com/Mariem-ro/BDD_Cucumber_Selenium_java/assets/66451325/5c15d2a0-06bf-4375-ab8b-98c381da83b3)
 
 
