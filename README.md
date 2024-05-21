@@ -27,7 +27,7 @@ BDD  automated functional testing.
 Testing tasks: 
 
 - test scenarios:
-- 
+
   1- Login with correcte credentials
   
   2- Add Customers
