@@ -1,19 +1,33 @@
 Test Plan:
 
 Test Plan Identifier: 
+
 Bo01
+
 Introduction: 
+
 Testing E-Commerce website backoffice.
+
 Test item: 
+
 the software under test SUT is E-Commerce website backoffice contains a lot of features like customers, Products, sales, Promotion, Content management... etc.
+
 Features to test: 
+
 we will be focusing on customers and Products Features.
+
 Features not to test: 
+
 sales, Promotion and Content management Features.
+
 Approach: 
+
 BDD  automated functional testing.
+
 Testing tasks: 
+
 - test scenarios:
+- 
   1- Login with correcte credentials
   
   2- Add Customers
@@ -47,15 +61,25 @@ Technologies needs:
  ==================================================================================================================================================================================
  
  Test scenarios Priorities:
- - test scenarios: 
+ 
+ - test scenarios:
+ - 
   1- Login with correcte credentials = P1
+   
   2- Add Customers = P1
+  
   3- Search Customers = P2
+  
   4- Add Product = P1
+  
   5- Add Categories = P1
+  
   6- Search Categories = P2
+  
   7- Add Manufactureres = P1
+  
   8- Search Manufactureres = P2
+  
    
    
  ==================================================================================================================================================================================
