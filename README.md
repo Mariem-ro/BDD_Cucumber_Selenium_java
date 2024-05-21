@@ -63,7 +63,7 @@ Technologies needs:
  Test scenarios Priorities:
  
  - test scenarios:
- - 
+   
   1- Login with correcte credentials = P1
    
   2- Add Customers = P1
