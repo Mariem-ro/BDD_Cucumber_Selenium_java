@@ -74,7 +74,7 @@ Test suite:
 - Feature1: Customer
 - Feature2: Login
 - Feature3: Product
-- 
+ 
 Technologies needs:
 
 - Selenium
