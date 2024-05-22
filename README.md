@@ -3,7 +3,8 @@
 
 Best Practices:
 
-Grouping step definitions
+Grouping step definitions:
+
 Technically it doesn’t matter how you name your step definition files, or which step definitions you put in a file. You could have one giant file containing all your step definitions. However, as the project grows, the file can become messy and hard to maintain. Instead, we recommend creating a separateStepDefinitions.java file for each domain concept.
 
 A good rule of thumb is to have one file for each major domain object.
